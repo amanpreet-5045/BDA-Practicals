@@ -1,0 +1,51 @@
+Name,Age,City,Salary
+John,,New York,500000
+Alice,25.0,Los Angeles,67345
+Bob,30.0,CHI,144321
+Charlie,40.0,San Francisco,124108
+David,30.0,Seattle,93349
+John,40.0,New York,141313
+Alice,35.0,Los Angeles,66147
+Bob,35.0,Chicago,120917
+Charlie,40.0,San Francisco,118658
+David,,Seattle,95882
+John,35.0,New York,51662
+Alice,35.0,NewYork,101882
+Bob,35.0,Chicago,133923
+Charlie,40.0,San Francisco,49492
+David,40.0,Seattle,39764
+John,30.0,New York,52434
+Alice,30.0,Los Angeles,43552
+Bob,30.0,Chicago,45281
+Charlie,40.0,San Francisco,137204
+David,40.0,Seattle,82014
+John,25.0,New York,67817
+Alice,40.0,Los Angeles,66018
+Bob,,Chicago,125604
+Charlie,35.0,San Francisco,60937
+David,,Seattle,141284
+John,30.0,New York,84745
+Alice,35.0,Los Angeles,47590
+Bob,25.0,Chicago,49495
+Charlie,25.0,San Francisco,72794
+David,40.0,Seattle,111568
+John,25.0,New York,80453
+Alice,,Los Angeles,86716
+Bob,,Chicago,81907
+Charlie,35.0,San Francisco,30974
+David,30.0,Seattle,92594
+John,35.0,New York,80754
+Alice,40.0,Los Angeles,36173
+Bob,35.0,Chicago,33077
+Charlie,35.0,San Francisco,148946
+David,25.0,Seattle,135453
+John,30.0,New York,106942
+Alice,25.0,Los Angeles,74235
+Bob,35.0,Chicago,124570
+Charlie,25.0,San Francisco,79502
+David,40.0,Seattle,46602
+John,,New York,107578
+Alice,35.0,Los Angeles,35288
+Bob,35.0,Chicago,145404
+Charlie,25.0,San Francisco,92551
+David,25.0,Seattle,147245
